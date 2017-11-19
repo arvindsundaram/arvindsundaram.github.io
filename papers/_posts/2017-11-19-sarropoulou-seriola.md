@@ -8,7 +8,7 @@ journal: "GigaScience"
 volume: 
 issue: gix108
 pages: 
-authors: "Sarropoulou E, <strong>Sundaram AYM</strong>, Kaitetzidou E, Kotoulas G , Gilfillan GD, Papandroulakis N, Mylonas CC, Magoulas A"
+authors: "Sarropoulou E*, <strong>Sundaram AYM</strong>, Kaitetzidou E, Kotoulas G , Gilfillan GD, Papandroulakis N, Mylonas CC, Magoulas A"
 image: /assets/images/papers/2017_seriola.png
 pdf: 
 pdflink: 
