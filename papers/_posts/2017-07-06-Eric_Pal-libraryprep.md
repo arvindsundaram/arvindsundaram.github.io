@@ -8,7 +8,7 @@ journal: "Microbiome"
 volume: 
 issue: 
 pages: 
-authors: "Eric J de Muinck†, Pål Trosvik†, Gregor D Gilfillan, Johannes R Hov, <strong>Arvind YM Sundaram*</strong>"
+authors: "Eric J de Muinck<sup>†</sup>, Pål Trosvik†, Gregor D Gilfillan, Johannes R Hov, <strong>Arvind YM Sundaram*</strong>"
 image: /assets/images/papers/2017_eric-pal.png
 pdf: 
 pdflink: https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-017-0279-1?site=microbiomejournal.biomedcentral.com
