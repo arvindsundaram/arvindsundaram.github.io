@@ -9,7 +9,7 @@ volume:
 issue: g
 pages: 
 authors: "Eric J de Muinck†, Pål Trosvik†, Gregor D Gilfillan, Johannes R Hov, <strong>Arvind YM Sundaram*</strong>"
-image: /assets/images/papers/2017_eric-pal.gif
+image: /assets/images/papers/2017_eric-pal.png
 pdf: 
 pdflink: https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-017-0279-1?site=microbiomejournal.biomedcentral.com
 github: https://github.com/arvindsundaram/triple_index-demultiplexing
