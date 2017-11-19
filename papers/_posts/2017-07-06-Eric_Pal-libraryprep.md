@@ -3,10 +3,10 @@ layout: paper
 title: "A novel ultra high-throughput 16S rRNA gene amplicon sequencing library preparation method for the Illumina HiSeq platform"
 year: "2017"
 shortref: "Muinck et al. Microbiome 2017 5:68"
-nickname: Seriola dumerili
-journal: "GigaScience"
+nickname: 
+journal: "Microbiome"
 volume: 
-issue: g
+issue: 
 pages: 
 authors: "Eric J de Muinck†, Pål Trosvik†, Gregor D Gilfillan, Johannes R Hov, <strong>Arvind YM Sundaram*</strong>"
 image: /assets/images/papers/2017_eric-pal.png
