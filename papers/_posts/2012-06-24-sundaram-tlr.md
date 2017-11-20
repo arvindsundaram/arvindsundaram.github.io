@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Positive selection pressure within teleost toll-like receptors _tlr21_ and _tlr22_ subfamilies and their response to temperature stress and microbial components in zebrafish"
+title: "Positive selection pressure within teleost toll-like receptors <em>tlr21</em> and <em>tlr22</em> subfamilies and their response to temperature stress and microbial components in zebrafish"
 year: “2012”
 shortref: “Sundaram et al. Mol Biol Rep 2012 39:8965“
 nickname: 
