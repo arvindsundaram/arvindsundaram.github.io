@@ -6,8 +6,8 @@ shortref: "Campos et al. BMC Genomics 2014 15:525"
 nickname: 
 journal: "BMC Genomics"
 volume: 15
-issue: 525
-pages: 
+issue: 1
+pages: 525
 authors: "Catarina Campos, <strong>Arvind YM Sundaram</strong>, Luisa MP Valente, Luis EC Conceição, Sofia Engrola, Jorge MO Fernandes*"
 image: /assets/images/papers/2014-06-25-campos-mirna.png
 pdf: /assets/pdfs/papers/2014-06-25-campos-mirna.pdf
