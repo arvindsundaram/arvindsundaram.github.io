@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Contrasting transcriptome response to thermal stress in two key zooplankton species, <emb>Calanus finmarchicus</emb> and <emb>C. glacialis</emb>"
+title: "Contrasting transcriptome response to thermal stress in two key zooplankton species, <em>Calanus finmarchicus</em> and <em>C. glacialis</em>"
 year: 2015
 shortref: ""
 nickname: 
