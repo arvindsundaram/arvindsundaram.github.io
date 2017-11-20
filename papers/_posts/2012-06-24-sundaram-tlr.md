@@ -9,7 +9,7 @@ volume: 39
 issue: 9
 pages: 8965-75
 authors: “<strong>Arvind YM Sundaram</strong>, Sonia Consuegra, Viswanath Kiron, Jorge MO Fernandes*”
-image: /assets/images/papers/2012-06-24-sundaram-tlr
+image: /assets/images/papers/2012-06-24-sundaram-tlr.png
 pdf: 
 pdflink: 
 github: 
