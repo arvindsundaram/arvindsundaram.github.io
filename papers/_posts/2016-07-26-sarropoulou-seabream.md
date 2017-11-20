@@ -8,7 +8,7 @@ journal: "BMC Genomics"
 volume: 17
 issue: 1
 pages: 506
-authors: "Elena Sarropoulou*<sup>†</sup>, Tsalafouta A<sup>†</sup> , <strong>Arvind YM Sundaram</strong>, Gregor D Gilfillan, Georgios Kotoulas, Nikos Papandroulakis, Michael Pavlidis"
+authors: "Elena Sarropoulou*<sup>†</sup>,  Alexandra Tsalafouta<sup>†</sup> , <strong>Arvind YM Sundaram</strong>, Gregor D Gilfillan, Georgios Kotoulas, Nikos Papandroulakis, Michael Pavlidis"
 image: /assets/images/papers/2016-07-26-sarropoulou-seabream.png
 pdf: /assets/pdfs/papers/2016-07-26-sarropoulou-seabream.pdf
 pdflink: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-016-2874-0?site=bmcgenomics.biomedcentral.com
