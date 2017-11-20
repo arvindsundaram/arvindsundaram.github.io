@@ -24,6 +24,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-# Abstract 
+# Abstract
 
 High throughput sequencing (HTS) is useful for many purposes as exemplified by the other topics included in this special issue. The purpose of this paper is to look into the unique challenges of using this technology in non-model organisms where resources such as genomes, functional genome annotations or genome complexity provide obstacles not met in model organisms. To describe these challenges, we narrow our scope to RNA sequencing used to study differential gene expression in response to pathogen challenge. As a demonstration species we chose Atlantic salmon, which has a sequenced genome with poor annotation and an added complexity due to many duplicated genes. We find that our RNA-seq analysis pipeline deciphers between duplicates despite high sequence identity. However, annotation issues provide problems in linking differentially expressed genes to pathways. Also, comparing results between approaches and species are complicated due to lack of standardized annotation.
