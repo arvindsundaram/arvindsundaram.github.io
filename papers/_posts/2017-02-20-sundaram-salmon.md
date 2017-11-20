@@ -10,7 +10,7 @@ issue: 1
 pages: 38-47
 authors: "<strong>Arvind YM Sundaram </strong>, Torstein Tengs, Unni Grimholt*"
 image: /assets/images/papers/
-pdf: 
+pdf: /assets/pdfs/papers/
 pdflink: 
 github: 
 pmid: 28223254
