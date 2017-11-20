@@ -1,14 +1,14 @@
 ---
 layout: paper
 title: "Positive selection pressure within teleost toll-like receptors <em>tlr21</em> and <em>tlr22</em> subfamilies and their response to temperature stress and microbial components in zebrafish"
-year: “2012”
-shortref: “Sundaram et al. Mol Biol Rep 2012 39:8965“
+year: 2012
+shortref: "Sundaram et al. Mol Biol Rep 2012 39:8965"
 nickname: 
 journal: "Molecular Biology Reports"
 volume: 39
 issue: 9
 pages: 8965-75
-authors: “<strong>Arvind YM Sundaram</strong>, Sonia Consuegra, Viswanath Kiron, Jorge MO Fernandes*”
+authors: "<strong>Arvind YM Sundaram</strong>, Sonia Consuegra, Viswanath Kiron, Jorge MO Fernandes*"
 image: /assets/images/papers/2012-06-24-sundaram-tlr.png
 pdf: 
 pdflink: 
