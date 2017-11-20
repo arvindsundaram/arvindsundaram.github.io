@@ -9,7 +9,7 @@ volume:
 issue: gix108
 pages: 
 authors: "Sarropoulou E*, <strong>Sundaram AYM</strong>, Kaitetzidou E, Kotoulas G , Gilfillan GD, Papandroulakis N, Mylonas CC, Magoulas A"
-image: /assets/images/papers/2017_seriola.png
+image: /assets/images/papers/2017-11-19-sarropoulou-seriola.png
 pdf: 
 pdflink: 
 github: 
