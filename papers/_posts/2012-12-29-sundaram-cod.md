@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Diversification of the expanded teleost-specific toll-like receptor family in Atlantic cod, <emb>Gadus morhua</emb>"
+title: "Diversification of the expanded teleost-specific toll-like receptor family in Atlantic cod, <em>Gadus morhua</em>"
 year: 2012
 shortref: "Sundaram et al. BMC Evol Biol. 2012 12:256"
 nickname: 
@@ -26,4 +26,4 @@ tags: []
 
 # Abstract 
 
-Toll-like receptors (Tlrs) are major molecular pattern recognition receptors of the innate immune system. Atlantic cod (<emb>Gadus morhua</emb>) is the first vertebrate known to have lost most of the mammalian Tlr orthologues, particularly all bacterial recognising and other cell surface Tlrs. On the other hand, its genome encodes a unique repertoire of teleost-specific Tlrs. The aim of this study was to investigate if these duplicate Tlrs have been retained through adaptive evolution to compensate for the lack of other cell surface Tlrs in the cod genome.
+Toll-like receptors (Tlrs) are major molecular pattern recognition receptors of the innate immune system. Atlantic cod (<em>Gadus morhua</em>) is the first vertebrate known to have lost most of the mammalian Tlr orthologues, particularly all bacterial recognising and other cell surface Tlrs. On the other hand, its genome encodes a unique repertoire of teleost-specific Tlrs. The aim of this study was to investigate if these duplicate Tlrs have been retained through adaptive evolution to compensate for the lack of other cell surface Tlrs in the cod genome.
