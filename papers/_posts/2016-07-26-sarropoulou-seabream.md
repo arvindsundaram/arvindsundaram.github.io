@@ -10,7 +10,7 @@ issue: 1
 pages: 506
 authors: "Elena Sarropoulou*, Tsalafouta A , <strong>Arvind YM Sundaram</strong>, Gregor D Gilfillan, Georgios Kotoulas, Nikos Papandroulakis, Michael Pavlidis"
 image: /assets/images/papers/2016-07-26-sarropoulou-seabream.png
-pdf: /assets/images/papers/2016-07-26-sarropoulou-seabream.pdf
+pdf: /assets/pdfs/papers/2016-07-26-sarropoulou-seabream.pdf
 pdflink: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-016-2874-0?site=bmcgenomics.biomedcentral.com
 github: 
 pmid: 27461489
