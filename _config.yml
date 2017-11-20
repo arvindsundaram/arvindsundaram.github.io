@@ -13,19 +13,19 @@ repository: drummondlab/drummondlab.github.io
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
-tagline: Evolution and regulation of protein production and quality control
+title : Arvind YM Sundaram
+tagline: Senior Bioinformatician, Norwegian Sequencing Centre, OUS / UiO
 institution:
-  url: http://www.uchicago.edu
-  name: The University of Chicago
+  url: http://www.sequencing.uio.no
+  name: Oslo Univeristy Hospital
 department:
-  url: http://bmb.uchospitals.edu
-  name: Biochemistry & Molecular Biology
+  url: http://www.sequencing.uio.no
+  name: Department of Medical Genetics
 author :
-  name : D. Allan Drummond
-  email : dadrummond@uchicago.edu
-  github : dad
-  twitter : dadrummond
+  name : Arvind YM Sundaram
+  email : arvindymsundaram@gmail.com
+  github : arvindsundaram
+#  twitter : 
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -36,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://drummondlab.org
+production_url : http://arvindsundaram.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -111,13 +111,13 @@ JB :
   analytics :
     provider : google
     google : 
-      tracking_id : 'UA-62008526-1'
+ #     tracking_id : '####UA-62008526-1'
     getclicky :
       site_id : 
     mixpanel :
-      token : '_MIXPANEL_TOKEN_'
+ #     token : '####_MIXPANEL_TOKEN_'
     piwik :
-      baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+ #     baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
       idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing 
