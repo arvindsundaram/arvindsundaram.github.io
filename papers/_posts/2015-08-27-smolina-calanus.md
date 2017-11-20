@@ -10,7 +10,7 @@ issue:
 pages: 79-93
 authors: "Irina Smolina*, Spyros Kollias, Eva F Müller, Penelope Lindeque, <strong>Arvind YM Sundaram</strong>, Jorge MO Fernandes, Galice Hoarau"
 image: /assets/images/papers/2015-08-27-smolina-calanus.png
-pdf: /assets/images/papers/2015-08-27-smolina-calanus.pdf
+pdf: /assets/pdfs/papers/2015-08-27-smolina-calanus.pdf
 pdflink: http://www.int-res.com/articles/meps_oa/m534p079.pdf
 github: 
 pmid: 
