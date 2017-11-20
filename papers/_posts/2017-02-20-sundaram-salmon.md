@@ -13,7 +13,7 @@ image: /assets/images/papers/
 pdf: 
 pdflink: 
 github: 
-pmid:28223254
+pmid: 28223254
 pmcid: 
 f1000: 
 figshare: 
