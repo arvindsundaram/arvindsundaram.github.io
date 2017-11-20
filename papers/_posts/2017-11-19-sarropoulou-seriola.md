@@ -1,17 +1,17 @@
 ---
 layout: paper
 title: "Full Genome Survey and Dynamics of Gene Expression in the Greater Amberjack <em>Seriola dumerili</em>"
-year: "2017"
+year: 2017
 shortref: "Sarropoulou et al. GigaScience 2017"
-nickname: Seriola dumerili
+nickname: 
 journal: "GigaScience"
-volume: 
-issue: gix108
+volume: "[Epub ahead of print]"
+issue: 
 pages: 
-authors: "Sarropoulou E*, <strong>Sundaram AYM</strong>, Kaitetzidou E, Kotoulas G , Gilfillan GD, Papandroulakis N, Mylonas CC, Magoulas A"
+authors: "Elena Sarropoulou*, <strong>Arvind YM Sundaram</strong>, E Kaitetzidou,  Georgios Kotoulas, Gregor D Gilfillan, Nikos Papandroulakis, Constantinos C Mylonas, Antonios Magoulas"
 image: /assets/images/papers/2017-11-19-sarropoulou-seriola.png
 pdf: 
-pdflink: 
+pdflink: https://academic.oup.com/gigascience/advance-article-pdf/doi/10.1093/gigascience/gix108/21599829/gix108.pdf
 github: 
 pmid: 29126158
 pmcid: 

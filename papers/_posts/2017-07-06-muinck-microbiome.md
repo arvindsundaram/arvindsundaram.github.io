@@ -2,15 +2,15 @@
 layout: paper
 title: "A novel ultra high-throughput 16S rRNA gene amplicon sequencing library preparation method for the Illumina HiSeq platform"
 year: "2017"
-shortref: "Muinck et al. Microbiome 2017 5:68"
+shortref: "Muinck et al. Microbiome 2017 5(1):68"
 nickname: 
 journal: "Microbiome"
-volume: 
-issue: 
-pages: 
+volume: 5
+issue: 1
+pages: 68
 authors: "Eric J de Muinck<sup>†</sup>, Pål Trosvik<sup>†</sup>, Gregor D Gilfillan, Johannes R Hov, <strong>Arvind YM Sundaram*</strong>"
 image: /assets/images/papers/2017-07-06-muinck-microbiome.png
-pdf: 
+pdf: /assets/pdfs/papers/2017-07-06-muinck-microbiome.pdf
 pdflink: https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-017-0279-1?site=microbiomejournal.biomedcentral.com
 github: https://github.com/arvindsundaram/triple_index-demultiplexing
 pmid: 28683838
