@@ -2,7 +2,7 @@
 layout: paper
 title: "Full Genome Survey and Dynamics of Gene Expression in the Greater Amberjack <em>Seriola dumerili</em>"
 year: "2017"
-shortref: "Sarropoulou and Sundaram et al. GigaScience 2017"
+shortref: "Sarropoulou et al. GigaScience 2017"
 nickname: Seriola dumerili
 journal: "GigaScience"
 volume: 
