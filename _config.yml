@@ -8,7 +8,7 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: drummondlab/drummondlab.github.io
+repository: arvindsundaram/arvindsundaram.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -16,11 +16,11 @@ repository: drummondlab/drummondlab.github.io
 title : Arvind YM Sundaram
 tagline: Senior Bioinformatician, Norwegian Sequencing Centre, OUS / UiO
 institution:
-  url: http://www.sequencing.uio.no
+  url: http://www.ous-hf.no
   name: Oslo Univeristy Hospital
 department:
   url: http://www.sequencing.uio.no
-  name: Department of Medical Genetics
+  name: Norwegian Sequencing Centre, Department of Medical Genetics
 author :
   name : Arvind YM Sundaram
   email : arvindymsundaram@gmail.com
