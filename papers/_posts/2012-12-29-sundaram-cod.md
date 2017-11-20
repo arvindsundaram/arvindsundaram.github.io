@@ -10,7 +10,7 @@ issue: 1
 pages: 256
 authors: "<strong>Arvind YM Sundaram</strong>, Viswanath Kiron, Joaqu’n Dopazo, Jorge MO Fernandes*"
 image: /assets/images/papers/2012-12-29-sundaram-cod.png
-pdf: /assets/assests/papers/2012-12-29-sundaram-cod.pdf
+pdf: /assests/pdfs/papers/2012-12-29-sundaram-cod.pdf
 pdflink: https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/1471-2148-12-256?site=bmcevolbiol.biomedcentral.com
 github: 
 pmid: 23273344 
