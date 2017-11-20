@@ -10,7 +10,7 @@ issue: 1
 pages: 816
 authors: "<strong>Arvind YM Sundaram</strong>, Timothy Hughes, Shea Biondi, Nathalie Bolduc, Sarah K. Bowman, Andrew Camilli, Yap C Chew, Catherine Couture, Andrew Farmer, John P Jerome, David W Lazinski, Andrew McUsic, Xu Peng, Kamran Shazand, Feng Xu, Robert Lyle*, Gregor D Gilfillan*"
 image: /assets/images/papers/2016-10-21-sundaram-chipseq.png
-pdf: /assets/images/papers/2016-10-21-sundaram-chipseq.pdf
+pdf: /assets/pdfs/papers/2016-10-21-sundaram-chipseq.pdf
 pdflink: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-016-3135-y?site=bmcgenomics.biomedcentral.com
 github: 
 pmid: 27769162
