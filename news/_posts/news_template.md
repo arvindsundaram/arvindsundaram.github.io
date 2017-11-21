@@ -1,8 +1,8 @@
 ---
 layout: news
-title: "Allan wins W.J. Youden award"
-author: "D. Allan Drummond"
-author_handle: "dad"
+title: ""
+author: ""
+author_handle: ""
 image: /assets/images/news/default-news.png
 category: news
 tags: [award]
