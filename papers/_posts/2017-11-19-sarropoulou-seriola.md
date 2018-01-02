@@ -10,7 +10,7 @@ issue: 12
 pages: 1-13
 authors: "Elena Sarropoulou*, <strong>Arvind YM Sundaram</strong>, E Kaitetzidou,  Georgios Kotoulas, Gregor D Gilfillan, Nikos Papandroulakis, Constantinos C Mylonas, Antonios Magoulas"
 image: /assets/images/papers/2017-11-19-sarropoulou-seriola.png
-pdf: /assets/pdfs/papers/2017-11-19-sarropoulou-seriola.png
+pdf: /assets/pdfs/papers/2017-11-19-sarropoulou-seriola.pdf
 pdflink: https://academic.oup.com/gigascience/article-pdf/6/12/1/23059307/gix108.pdf
 github: 
 pmid: 29126158
