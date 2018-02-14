@@ -5,13 +5,13 @@ year: 2017
 shortref: "Falch et al. Eur J Endocrinol 2017"
 nickname: 
 journal: "European Journal of Endrocrinology"
-volume: "[Epub ahead of print]"
-issue: 
-pages: 
+volume: 178
+issue: 1
+pages: 295-307
 authors: "Camilla M Falch, <strong>Arvind YM Sundaram</strong>, Kristin A Øystese, Kjersti R Normann, Tove Lekva, Ivars Silamikelis, Alexander K Eieland, Marianne S Andersen, Jens Bollerslev, Nicoleta C Olarescu*"
 image: 
 pdf: 
-pdflink: www.eje-online.org/content/early/2017/12/19/EJE-17-0702.full.pdf
+pdflink: http://www.eje-online.org/content/178/3/295.full.pdf
 github: 
 pmid: 29259037
 pmcid: 
