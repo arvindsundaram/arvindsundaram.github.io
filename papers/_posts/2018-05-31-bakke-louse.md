@@ -13,7 +13,7 @@ image: /assets/images/papers/2018-05-31-bakke-louse.png
 pdf: /assets/pdfs/papers/2018-05-31-bakke-louse.pdf
 pdflink: https://www.nature.com/articles/s41598-018-26420-6.pdf
 github: 
-pmid: xxxx
+pmid: 29855496
 pmcid: 
 f1000: 
 figshare: 
