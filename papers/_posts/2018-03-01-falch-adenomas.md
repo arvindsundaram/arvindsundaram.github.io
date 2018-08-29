@@ -1,16 +1,16 @@
 ---
 layout: paper
 title: "Gene expression profiling of fast- and slow- growing gonadotroph non-functioning pituitary adenomas"
-year: 2017
-shortref: "Falch et al. Eur J Endocrinol 2017"
+year: 2018
+shortref: "Falch et al. Eur J Endocrinol 2018"
 nickname: 
 journal: "European Journal of Endrocrinology"
 volume: 178
 issue: 3
 pages: 295-307
 authors: "Camilla M Falch, <strong>Arvind YM Sundaram</strong>, Kristin A Øystese, Kjersti R Normann, Tove Lekva, Ivars Silamikelis, Alexander K Eieland, Marianne S Andersen, Jens Bollerslev, Nicoleta C Olarescu*"
-image: /assets/images/papers/2017-12-19-falch-adenomas.png
-pdf: /assets/pdfs/papers/2017-12-19-falch-adenomas.pdf
+image: /assets/images/papers/2018-03-01-falch-adenomas.png
+pdf: /assets/pdfs/papers/2018-03-01-falch-adenomas.pdf
 pdflink: http://www.eje-online.org/content/178/3/295.full.pdf
 github: 
 pmid: 29259037
