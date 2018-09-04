@@ -1,16 +1,16 @@
 ---
 layout: paper
 title: "Monocytes accumulate in the airways of children with fatal asthma"
-year: 2019
-shortref: "Eguíluz-Gracia et al. Clin Exp Allergy 2019"
+year: 2018
+shortref: "Eguíluz-Gracia et al. Clin Exp Allergy 2018"
 nickname: 
 journal: "Clinical and Experimental Allergy"
 volume: 
 issue: 
 pages: 
 authors: "Ibon Eguíluz-Gracia, Kristiina Malmstrom, Sinan Ahmed Dheyauldeen, Jouko Lohi, Antti Sajantila, Ragnhild Aaløkken, <strong>Arvind YM Sundaram</strong>, Gregor D Gilfillan, Mika Makela, Espen S Baekkevold, Frode L Jahnsen*"
-image: /assets/images/papers/2019-09-30-gracia-asthma.png
-pdf: /assets/pdfs/papers/2019-09-30-gracia-asthma.pdf
+image: /assets/images/papers/2018-09-30-gracia-asthma.png
+pdf: /assets/pdfs/papers/2018-09-30-gracia-asthma.pdf
 pdflink: 
 github: 
 pmid: 
