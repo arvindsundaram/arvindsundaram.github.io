@@ -6,7 +6,7 @@ shortref: "Sarropoulou et al. BMC Genomics 2016 17:506"
 nickname: 
 journal: "BMC Genomics"
 volume: 17
-issue: 1
+issue:
 pages: 506
 authors: "Elena Sarropoulou*<sup>†</sup>,  Alexandra Tsalafouta<sup>†</sup> , <strong>Arvind YM Sundaram</strong>, Gregor D Gilfillan, Georgios Kotoulas, Nikos Papandroulakis, Michael Pavlidis"
 image: /assets/images/papers/2016-07-26-sarropoulou-seabream.png
