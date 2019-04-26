@@ -13,7 +13,7 @@ image: /assets/images/papers/2019-04-24-bizuayehu-salmon.png
 pdf: /assets/pdfs/papers/2019-04-24-bizuayehu-salmon.pdf
 pdflink: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-019-5667-4
 github: 
-pmid: 
+pmid: 31014241
 pmcid: 
 f1000: 
 figshare: 
