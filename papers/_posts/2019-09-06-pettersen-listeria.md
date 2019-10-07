@@ -2,7 +2,7 @@
 layout: paper
 title: "Exposure to broad-spectrum visible light causes major transcriptomic changes in the <em>L. monocytogenes</em> EGDe strain."
 year: 2019
-shortref: "Skugor et al. Appl Environ Microbiol.  2019"
+shortref: "Pettersen et al. Appl Environ Microbiol.  2019"
 nickname: 
 journal: "Applied and Environmental Microbiology"
 volume: 
