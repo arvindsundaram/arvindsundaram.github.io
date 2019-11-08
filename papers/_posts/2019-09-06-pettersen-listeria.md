@@ -11,7 +11,7 @@ pages:
 authors: "Kristin Sæbø Pettersen, <strong>Arvind YM Sundaram</strong>, Taran Skjerdal, Yngvild Wasteson, Anne Kijewski, Toril Lindbäck, Marina Aspholm*"
 image: /assets/images/papers/2019-09-06-pettersen-listeria.png
 pdf: /assets/pdfs/papers/2019-09-06-pettersen-listeria.pdf
-pdflink: https://aem.asm.org/content/aem/early/2019/09/03/AEM.01462-19.full-text.pdf
+pdflink: https://aem.asm.org/content/aem/85/22/e01462-19.full.pdf
 github: 
 pmid: 31492665
 pmcid: 
