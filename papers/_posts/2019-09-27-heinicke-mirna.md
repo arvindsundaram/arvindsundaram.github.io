@@ -13,7 +13,7 @@ image: /assets/images/papers/2019-09-27-heinicke-mirna.png
 pdf: /assets/pdfs/papers/2019-09-27-heinicke-mirna.pdf
 pdflink: https://www.tandfonline.com/doi/pdf/10.1080/15476286.2019.1667741?needAccess=true
 github: 
-pmid: 
+pmid: 31559901
 pmcid: 
 f1000: 
 figshare: 
