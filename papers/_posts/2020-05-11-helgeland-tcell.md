@@ -8,7 +8,7 @@ journal: "BMC Genomics"
 volume: 
 issue:
 pages: 
-authors: "Hanna Helgeland*, Ingvild Gabrielsen, Helle Akselsen,<strong>Arvind YM Sundaram</strong>, Siri T Flåm, Benedicte A Lie*"
+authors: "Hanna Helgeland*, Ingvild Gabrielsen, Helle Akselsen, <strong>Arvind YM Sundaram</strong>, Siri T Flåm, Benedicte A Lie*"
 image: /assets/images/papers/2020-05-11-helgeland-tcell.png
 pdf: /assets/pdfs/papers/2020-05-11-helgeland-tcell.pdf
 pdflink: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-020-6755-1
